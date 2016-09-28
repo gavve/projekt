@@ -1,0 +1,7 @@
+settings_private.py
+*.pyc
+wsgi.py
+common_static/*
+media/*
+static/*
+templates/*
